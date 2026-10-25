@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the paper below when using VoxFallbacks or these experiments."
+title: "VoxFallbacks: Dataset and Experiments"
+authors:
+  - family-names: Schneider
+    given-names: Phillip
+  - family-names: Mercier
+    given-names: Alexandre
+  - family-names: Oehms
+    given-names: Joshua
+  - family-names: Jokinen
+    given-names: Kristiina
+  - family-names: Matthes
+    given-names: Florian
+license: CC-BY-NC-ND-4.0
+preferred-citation:
+  type: article
+  title: "Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants"
+  authors:
+    - family-names: Schneider
+      given-names: Phillip
+    - family-names: Mercier
+      given-names: Alexandre
+    - family-names: Oehms
+      given-names: Joshua
+    - family-names: Jokinen
+      given-names: Kristiina
+    - family-names: Matthes
+      given-names: Florian
+  year: 2026
+  journal: arXiv
+  doi: 10.48550/arXiv.2608.30738
+  url: https://arxiv.org/abs/2608.30738
