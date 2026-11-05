@@ -14,7 +14,7 @@ authors:
     given-names: Florian
 license: CC-BY-NC-ND-4.0
 preferred-citation:
-  type: article
+  type: conference-paper
   title: "Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants"
   authors:
     - family-names: Schneider
@@ -28,6 +28,19 @@ preferred-citation:
     - family-names: Matthes
       given-names: Florian
   year: 2026
-  journal: arXiv
-  doi: 10.48550/arXiv.2608.30738
-  url: https://arxiv.org/abs/2608.30738
+  month: 10
+  collection-title: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track"
+  collection-type: proceedings
+  editors:
+    - family-names: Atanasova
+      given-names: Pepa
+    - family-names: Haffari
+      given-names: Gholamreza
+    - family-names: Wang
+      given-names: Minghan
+  city: Budapest
+  country: Hungary
+  publisher: Association for Computational Linguistics
+  pages: 4283--4294
+  doi: 10.18653/2026.emnlp-industry.253
+  url: https://aclanthology.org/2026.emnlp-industry.253/

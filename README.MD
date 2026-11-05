@@ -1,7 +1,7 @@
 # Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants
 
 Data, code, and prediction outputs accompanying our **EMNLP 2026 Industry Track** paper:
-[Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants](https://arxiv.org/abs/2608.30738).
+[Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants](https://aclanthology.org/2026.emnlp-industry.253/).
 
 **Phillip Schneider, Alexandre Mercier, Joshua Oehms, Kristiina Jokinen, and Florian Matthes**
 
@@ -9,18 +9,22 @@ We study fallback handling in a deployed smartwatch-based voice assistant. This 
 
 ## Study Citation
 
-Please cite the paper when using the dataset or experiments. The following entry references the arXiv version; machine-readable citation metadata is also provided in [CITATION.cff](CITATION.cff).
+Please cite the paper when using the dataset or experiments. Machine-readable citation metadata is also provided in [CITATION.cff](CITATION.cff).
 
 ```bibtex
-@misc{schneider2026fallbacks,
+@inproceedings{schneider-etal-2026-fallbacks,
 	title = {Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants},
 	author = {Schneider, Phillip and Mercier, Alexandre and Oehms, Joshua and Jokinen, Kristiina and Matthes, Florian},
+	editor = {Atanasova, Pepa and Haffari, Gholamreza and Wang, Minghan},
+	booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track},
+	month = oct,
 	year = {2026},
-	eprint = {2608.30738},
-	archivePrefix = {arXiv},
-	primaryClass = {cs.CL},
-	doi = {10.48550/arXiv.2608.30738},
-	url = {https://arxiv.org/abs/2608.30738}
+	address = {Budapest, Hungary},
+	publisher = {Association for Computational Linguistics},
+	url = {https://aclanthology.org/2026.emnlp-industry.253/},
+	doi = {10.18653/2026.emnlp-industry.253},
+	pages = {4283--4294},
+	ISBN = {979-8-89176-460-6}
 }
 ```
 
